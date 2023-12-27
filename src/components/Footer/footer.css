@@ -1,0 +1,30 @@
+/* .curved-box {
+    width: 100%;
+    height: 300px;
+    background:
+        radial-gradient(ellipse 90px 40px at 20% -20%, transparent, transparent 600px, #1596ff 650px);
+    background-repeat: no-repeat;
+} */
+.footer {
+    /* display: flex;
+    align-self: center; */
+    margin: -0.5rem -3.5rem;
+    /* position: relative; */
+    margin-top: -7rem;
+}
+
+.f-content {
+    /* position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    width: 100%;
+    margin-top: 14rem;
+    gap: 1rem;
+    color: rgb(0, 0, 0);
+}
+
+.f-content>span {
+    font-size: xx-large;
+}
